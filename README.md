@@ -4,7 +4,7 @@ The goal of this campaign was to get as much visibility and views as possible fo
 
 ![fig.1.](/Project-images/Ad.png)
 
-### Picture of the advertisement that we used in the campaings. We used the music video as the advertisement.
+#### Picture of the advertisement that we used in the campaings. We used the music video as the advertisement.
 
 ## Creating the test campaigns
 
