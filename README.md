@@ -24,9 +24,10 @@ The test campaigns were set to target different countries, the first test campai
 
 As one can see, one can use several different targeting options when it comes to creating ads. However, at first we did not use any additional targeting options for the test campaings, since we wanted to get a better understanding of the audience. 
 
-### placing the bid 
+### Placing the bid 
 
 In Google Ads, depending on the campaign type that choose you have to place a bid for your advertisement if you wish that your ad is shown on YouTube. I recommend putting the bid to low as possible, but not too low since you might not win any space for your ad if you place it too low. After adjusting the bid several times during the campaigns, I placed the bid to 0.01€
+
 ![fig](/Project-images/bid.png)
 
 ## Results of the test campaings
