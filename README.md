@@ -18,3 +18,5 @@ First I created two test campaigns to gain better insights of the target audienc
 
 The test campaigns were set to target different countries, the first test campaign targeted countries such as America and latin countries whereas the second test campaing was targeting countries in Africa. The countries were selected based on the idea that people in these countries listen the kind of music we are promoting. 
 
+![fig.3.](/Project-images/targeting1.2.png)
+
