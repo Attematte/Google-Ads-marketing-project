@@ -12,5 +12,5 @@ The goal of this campaign was to get as much visibility and views as possible fo
 First I created two test campaigns to gain better insights of the target audience and analyzed the data to create the main campaign.  Google Ads allows marketers to use multiple different targeting options and I wanted to know what targeting options works best with our Ads. Each  test campaign included different targeting options, however we mostly targeted different countries. I could have started without any test campaigns, but that could have been risky and expensive, since we didn't know what targeting options work and how the advertisement performs with these targeting options. 
 
 
-(/Project-images/targeting.1..png)
+!(/Project-images/targeting.1..png)
 
