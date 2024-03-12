@@ -44,5 +44,11 @@ For the main campaign, I used the demographic data and geographical data that I 
 
 ![fig.6.](/Project-images/channelstargeting.png)
 
+Based on the campaign results, we can see that the most amount of views came from Kenya with 52.95% view rate. 
+
+
+![fig.7.](/Project-images/locations.png)
+
+
 
 
