@@ -24,4 +24,11 @@ The test campaigns were set to target different countries, the first test campai
 
 As one can see, one can use several different targeting options when it comes to creating ads. However, at first we did not use any additional targeting options for the test campaings, since we wanted to get a better understanding of the audience. 
 
+## Results of the test campaings
+
+After creating the test campaings, I let them run for three days with a daily budget of 10€/day. After analyzing the data I came to a conclusion that our target audience was people between ages 18 to 44. In fact, males between age 25-34, were the ones who viewed our advertisement the most. 
+
+![fig.4.](/Project-images/resultsdemo.png)
+
+
 
