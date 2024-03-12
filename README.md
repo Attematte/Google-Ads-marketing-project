@@ -30,5 +30,9 @@ After creating the test campaings, I let them run for three days with a daily bu
 
 ![fig.4.](/Project-images/resultsdemo.png)
 
+We could also see that most of the people were watching our advertisement on their phones, whereas not so much on tablets. 
+
+![fig.5.](/Project-images/resultdevices.png)
+
 
 
