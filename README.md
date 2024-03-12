@@ -14,3 +14,4 @@ First I created two test campaigns to gain better insights of the target audienc
 
 ![fig.2.](/Project-images/targeting1.1.png)
 
+### Google Ads allows to target audiences based on geographic locations
