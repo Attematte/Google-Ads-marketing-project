@@ -1,5 +1,5 @@
 # Google-Ads-marketing-project
-Marketing project done on Google Ads. In this project, I created marketing campaigns that were launched on YouTube with nearly a 2000€ budget. 
+Marketing project done on Google Ads. In this project, I took responsibility on creating marketing campaigns that were launched on YouTube with nearly a 2000€ budget. 
 The goal of this campaign was to get as much visibility and views as possible for the employer's music video. In addition, one of the project's goals was to get a better picture of the potential target audience. The employer had done marketing on Google Ads before, but the biggest problem with the previous marketing campaigns was that there was no target audience, but the ads were aimed globally at everyone. To make the campaigns more effective, we decided to map the target audience and reach only such people who listen the kind of music that the employer makes. In other words, we wanted the campaign ads to be more personal and aimed at a more specific target audience.
 
 ![fig.1.](/Project-images/Ad.png)
@@ -24,6 +24,11 @@ The test campaigns were set to target different countries, the first test campai
 
 As one can see, one can use several different targeting options when it comes to creating ads. However, at first we did not use any additional targeting options for the test campaings, since we wanted to get a better understanding of the audience. 
 
+### placing the bid 
+
+In Google Ads, depending on the campaign type that choose you have to place a bid for your advertisement if you wish that your ad is shown on YouTube. I recommend putting the bid to low as possible, but not too low since you might not win any space for your ad if you place it too low. After adjusting the bid several times during the campaigns, I placed the bid to 0.01€
+![fig](/Project-images/bid.png)
+
 ## Results of the test campaings
 
 After creating the test campaings, I let them run for three days with a daily budget of 10€/day. After analyzing the data I came to a conclusion that our target audience was people between ages 18 to 44. In fact, males between age 25-34, were the ones who viewed our advertisement the most. 
@@ -40,9 +45,10 @@ The picture bellow shows the results from the first test campaign. As we can see
 
 ## Creating the main campaign
 
-For the main campaign, I used the demographic data and geographical data that I got from the test campaigns. In addition, I used a targeting option that places the advertisement on YouTube Channels/videos. This way I could place the advertisement on channels and videos of artists that produce similar kind of music than my employer. The benefit of doing this, is that we were able to reach audience that listened similar kind of music that we wanted to promote with our advertisement. 
+After I had completed the test campaigns and familiarized myself with Google Ads more thoroughly, I began to think about the target group and how to best reach them. Since, the data from the test campaigns showed that most impressions came from the countries in Africa, I decided to target the ad to these countries. At the same time, I only wanted to reach people between the ages of 18-44. In addition, I used a targeting option that places the advertisement on YouTube Channels/videos. This way I could place the advertisement on channels and videos of artists that produce similar kind of music than my employer. The benefit of doing this, is that we were able to reach audience that listened similar kind of music that we wanted to promote with our advertisement. The daily budget was set to 12.50€
 
 ![fig.6.](/Project-images/channelstargeting.png)
+
 
 Based on the campaign results, we can see that the most amount of views came from Kenya with 52.95% view rate. 
 
@@ -54,6 +60,15 @@ Based on the campaign results, we can see that the most amount of views came fro
 Overall, the campaign performed well. The advertisement received nearly 600 000 views with a view rate of 48.99%.
 
 ![fig.8.](/Project-images/Mainresults.png)
+
+
+## Final thoughts
+
+The project was challenging but very educational. Prior to this project, I had no previous experience with Google Ads. In conclusion, I can state that at first Google Ads is not an easy tool to use, because it has so many settings and you have to know it quite well before you can take advantage of it. But after learning how to use it, it's quite easy to create campaigns.
+
+I think the project achieved its purpose which was to get as many views and visibility as possible for the employer's music video. Of course, you could always question whether you would have gotten more views and visibility with some other settings or placements, but you must also remember that the budget plays a big role. The more money you have, the more visibility you get for your ad. During the project, I also learned to analyze data and I now understand that it is important to have test campaigns where you test ads and check how they perform. After you have tested the ads, you have more data that you can use to make future campaigns more effective.
+
+Otherwise, Google Ads is a pretty good tool when it comes to different segmentation options. I have also learned that it pays enough to segment and find the target group, otherwise you would just be wasting your money if you were to market to everyone. 
 
 
 
