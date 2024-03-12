@@ -38,4 +38,11 @@ The picture bellow shows the results from the first test campaign. As we can see
 
 ![fig.5.](/Project-images/testcampaing.png)
 
+## Creating the main campaign
+
+For the main campaign, I used the demographic data and geographical data that I got from the test campaigns. In addition, I used a targeting option that places the advertisement on YouTube Channels/videos. This way I could place the advertisement on channels and videos of artists that produce similar kind of music than my employer. The benefit of doing this, is that we were able to reach audience that listened similar kind of music that we wanted to promote with our advertisement. 
+
+![fig.6.](/Project-images/channelstargeting.png)
+
+
 
