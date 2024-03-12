@@ -49,6 +49,12 @@ Based on the campaign results, we can see that the most amount of views came fro
 
 ![fig.7.](/Project-images/locations.png)
 
+### Overview of the results
+
+Overall, the campaign performed well. The advertisement received nearly 600 000 views with a view rate of 48.99%.
+
+![fig.8.](/Project-images/Mainresults.png)
+
 
 
 
