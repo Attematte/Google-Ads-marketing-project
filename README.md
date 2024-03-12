@@ -14,9 +14,14 @@ First I created two test campaigns to gain better insights of the target audienc
 
 ![fig.2.](/Project-images/targeting1.1.png)
 
-### Google Ads allows to target audiences based on geographic locations
+### Google Ads allows to target audiences based on geographic locations.
 
 The test campaigns were set to target different countries, the first test campaign targeted countries such as America and latin countries whereas the second test campaing was targeting countries in Africa. The countries were selected based on the idea that people in these countries listen the kind of music we are promoting. 
 
 ![fig.3.](/Project-images/targeting1.2.png)
+
+### Some additional targeting options that one can use on Google Ads. 
+
+As one can see, one can use several different targeting options when it comes to creating ads. However, at first we did not use any additional targeting options for the test campaings, since we wanted to get a better understanding of the audience. 
+
 
