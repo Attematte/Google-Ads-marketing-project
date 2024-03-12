@@ -1,5 +1,5 @@
 # Google-Ads-marketing-project
-Marketing project done on Google Ads. In this project, I created marketing campaigns that were launched on YouTube with 1000€ budget. 
+Marketing project done on Google Ads. In this project, I created marketing campaigns that were launched on YouTube with nearly a 2000€ budget. 
 The goal of this campaign was to get as much visibility and views as possible for the employer's music video. In addition, one of the project's goals was to get a better picture of the potential target audience. The employer had done marketing on Google Ads before, but the biggest problem with the previous marketing campaigns was that there was no target audience, but the ads were aimed globally at everyone. To make the campaigns more effective, we decided to map the target audience and reach only such people who listen the kind of music that the employer makes. In other words, we wanted the campaign ads to be more personal and aimed at a more specific target audience.
 
 ![fig.1.](/Project-images/Ad.png)
