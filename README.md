@@ -34,5 +34,8 @@ We could also see that most of the people were watching our advertisement on the
 
 ![fig.5.](/Project-images/resultdevices.png)
 
+The picture bellow shows the results from the first test campaign. As we can see, the viewrate is already quite good. Viewrate is a ratio showing the number of paid views of a video ad to the number of impressions that were eligible for views. The viewrate is calculated simply by dividing the amount of views with the amount of impressions, here (7.11/18.4)*100 = 38.62%. Impressions mean how often the ad was shown to the audience. 
+
+![fig.5.](/Project-images/testcampaing.png)
 
 
